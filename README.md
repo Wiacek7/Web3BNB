@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- ABOUT THE PROJECT -->
-## Decentral AirBnb
+## WEB3-BNB
 
 This is a decentralized web3.0 version of the AirBnb renting website built for EVM compatible blockchains (Ethereum, Polygon,...), it was inspired by the Moralis project ["Build Web 3.0 AirBNB Clone Using web3uikit, React, Moralis and Solidity - Full-Stack Blockchain App"](https://www.youtube.com/watch?v=rj-Mb-xz1Os&t=2443s)
  <p align="center">
